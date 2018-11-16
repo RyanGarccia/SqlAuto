@@ -1,10 +1,7 @@
 #                     SqlAuto
-
-Olá, obrigado a todos os que baixaram esta 
-ferramenta, Bem esta ferramenta foi feita 
-com o intuito educacional, e não me 
-responsabilizo pelo uso inadquado desta 
-ferramenta.
+Powered by: RyanGarccia
+NickName: R14N 64RCC14
+Github: https://github.com/RyanGarccia/SqlAuto
 
 {~~~~~~~~~~~~~~~} Instalação {~~~~~~~~~~~~~~~}
 
@@ -27,9 +24,10 @@ agora digite:
 {~~~~~~~~~~}
  cd SqlAuto
 {~~~~~~~~~~~~~~~~~~~}
- chmod +x sqlauto.sh
+ chmod +x *
 {~~~~~~~~~~~~~}
- sh sqlauto.sh
+ sh install.sh
+ python SqlAuto.py
 {~~~~~~~~~~~~~}
 
 
